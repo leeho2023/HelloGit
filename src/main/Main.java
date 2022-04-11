@@ -23,6 +23,10 @@ public class Main {
 		
 		System.out.println(addResult);
 		
+		int minusResult = cal.minus(3000, 400);
+		
+		System.out.println(minusResult);
+		
 	}
 
 }
